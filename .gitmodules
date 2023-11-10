@@ -1,0 +1,3 @@
+[submodule "team6-server"]
+	path = team6-server
+	url = https://github.com/HACKY-TALKY-2-2/team6-server
